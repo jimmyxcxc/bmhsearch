@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Replace onnx2tf usage from CLI to Python (#8429)

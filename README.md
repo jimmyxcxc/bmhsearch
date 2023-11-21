@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add distance calculation feature in vision-eye (#8616)

@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Add horizontal Mosaic3 augmentation (#6898)

@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Fix OpenVINO missing batch-size bug (#9264)

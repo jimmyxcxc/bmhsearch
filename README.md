@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)

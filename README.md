@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Replace onnx2tf usage from CLI to Python (#8429)

@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+YOLOv8 INT8 TFLite Inference Example (#7317)
